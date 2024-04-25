@@ -1,5 +1,5 @@
 # proyecto_sustituto_IA
-Proyecto sustituto. Curso introducción a la Inteligencia Artificial. Alumno: Cristian Mateo Florez Restrepo
+Proyecto sustituto. Curso introducción a la Inteligencia Artificial. Alumno: Cristian Mateo Florez Restrepo, CC: 1040183014
 
 ## Competencia utilizada
 https://www.kaggle.com/competitions/spaceship-titanic/overview
