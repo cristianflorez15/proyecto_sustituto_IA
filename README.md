@@ -40,6 +40,8 @@ Finalmente, ejecutar el siguiente comando para correr el script de predicción y
 - docker exec -it CONTAINERID python predict.py
 
 ### A tener en cuenta
+- En el archivo de salida 'predictions.csv', la codificación para la variable objetivo es 1 = true y 0 = false
+
 - El archivo con los datos de entrenamiento debe llamarse 'train.csv' y estar ubicado en la carpeta 'scripts'.
 
 - El archivo para realizar la predicción debe llamarse 'input_data.csv' y estar ubicado en la carpeta 'scripts'.
